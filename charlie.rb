@@ -1,1 +1,1 @@
-puts "lol"
+puts "lolcats"
